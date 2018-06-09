@@ -2010,7 +2010,7 @@ encoder:
 珂	gsk	8777600
 琳	gss	43788705
 珠	gtf	83208470
-珩	gtg	2522070
+#珩	gtg	2522070
 珞	gtk	4031341
 璁	gtl	3147623
 麦	gtu	73775529
@@ -98456,6 +98456,7 @@ encoder:
 奇	dsk	210503529
 寸	fgh	48058352
 赶	fhf	82215529
+麸	gtg	
 眸	hct	7774729
 满	iag	195609411
 洞	img	27107294
@@ -98466,6 +98467,7 @@ encoder:
 买	nud	622574117
 席	oam	55306823
 塞	paw	73874823
+衬	puf	
 礼	pyn	67520000
 触	qej	32072000
 钱	qga	330649411
@@ -98493,10 +98495,8 @@ encoder:
 #   群君
 #   州yty羔ugo抓rrh瞭hdu骑cgd该yyn厘djf镇qfh巧agn搜reh卖fnu
 #   进fj帮dtb咳ky振拜rdf徙thh彻tav奇ds  热rv照jvk操rk
-#   黑or置 lf
 #   落ait蔽
 #   游iy济iyj
-#   麸gtg
 #   衬 褚
 #   旋讫
 #   插or挺 rtf
@@ -98506,7 +98506,6 @@ encoder:
 #   合告科待都教
 #   4码的字根常用字: 西石士干雨川
 #   颜ute拌rug(待定)
-#       鸟	qg	110216470
 ## Custom Z键区分重码 Z键用于区分重码字
 #云	fcuz	321047
 支	fcz	228376470
@@ -98524,7 +98523,7 @@ encoder:
 锤	qtff	12411764
 捶	rtff	4845552
 垂	tfaf	31972705
-#   延thp 
+延	thp	
 #   临jtj 监jtl
 #   余wtu 途wtp
 ## 兼容86和新世纪五笔
